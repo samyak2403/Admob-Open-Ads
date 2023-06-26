@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/version-1.0.1-green.svg)](https://shields.io/)
+[![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://shields.io/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
