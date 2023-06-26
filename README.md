@@ -55,5 +55,5 @@ new AppOpenManager(context, "ADMOB_OPEN_ADS_ID");
 <a href="https://www.twitter.com/papayacoders"> <img src="https://img.shields.io/badge/Twitter-Papaya%20Coders-orange" /></a>
 <a href="https://www.linkedin.com/company/papayacoders/"> <img src="https://img.shields.io/badge/LinkedIn-Papaya%20Coders-orange" /></a>
 
-## Made with :sparkling_heart: [Papaya Coders](https://papayacoders.in/)      <a href="https://rzp.io/i/szhJHOPQX"> <img src="https://img.shields.io/badge/Donate-Razorpay-green" /></a>
+## Made with :sparkling_heart: [mr_samyakkamble](https://www.instagram.com/mr_samyakkamble/?hl=en/)      <a href="https://rzp.io/i/szhJHOPQX"> <img src="https://img.shields.io/badge/Donate-Razorpay-green" /></a>
 
