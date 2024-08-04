@@ -69,4 +69,4 @@ public class MyApplication extends Application {
 # Connect With Us
 
 
-## Made with :sparkling_heart: [mr_samyakkamble](https://www.instagram.com/mr_samyakkamble/?hl=en/)     
+## Made with :sparkling_heart: [mr_samyakkamble X miss_samruddhi](https://www.instagram.com/mr_samyakkamble/?hl=en/)     
