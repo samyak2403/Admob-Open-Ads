@@ -2,7 +2,9 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![pv](https://pageview.vercel.app/?github_user=Admob-Open-Ads)
 
+## Contributors
 
+Please Feel free to contribute by submitting a Pull Request!
 [![](https://contrib.rocks/image?repo=samyak2403/Admob-Open-Ads)](https://github.com/samyak2403/IPTVmine/graphs/contributors)
 
 
